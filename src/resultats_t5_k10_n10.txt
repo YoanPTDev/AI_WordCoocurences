@@ -1,0 +1,794 @@
+Clustering
+Itération 0 effectuées en 5.125719300000128 secondes (25124 changements) 
+
+Il y a 278.0 mots appartenant au centroide 0
+Il y a 15693.0 mots appartenant au centroide 1
+Il y a 2415.0 mots appartenant au centroide 2
+Il y a 1392.0 mots appartenant au centroide 3
+Il y a 159.0 mots appartenant au centroide 4
+Il y a 1757.0 mots appartenant au centroide 5
+Il y a 541.0 mots appartenant au centroide 6
+Il y a 28.0 mots appartenant au centroide 7
+Il y a 1265.0 mots appartenant au centroide 8
+Il y a 1874.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 1 effectuées en 4.116033399999651 secondes (12095 changements) 
+
+Il y a 931.0 mots appartenant au centroide 0
+Il y a 7747.0 mots appartenant au centroide 1
+Il y a 2297.0 mots appartenant au centroide 2
+Il y a 412.0 mots appartenant au centroide 3
+Il y a 247.0 mots appartenant au centroide 4
+Il y a 8153.0 mots appartenant au centroide 5
+Il y a 1440.0 mots appartenant au centroide 6
+Il y a 564.0 mots appartenant au centroide 7
+Il y a 2174.0 mots appartenant au centroide 8
+Il y a 1437.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 2 effectuées en 4.128887900000336 secondes (6580 changements) 
+
+Il y a 767.0 mots appartenant au centroide 0
+Il y a 4073.0 mots appartenant au centroide 1
+Il y a 2653.0 mots appartenant au centroide 2
+Il y a 137.0 mots appartenant au centroide 3
+Il y a 407.0 mots appartenant au centroide 4
+Il y a 10752.0 mots appartenant au centroide 5
+Il y a 1232.0 mots appartenant au centroide 6
+Il y a 1236.0 mots appartenant au centroide 7
+Il y a 2477.0 mots appartenant au centroide 8
+Il y a 1668.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 3 effectuées en 4.124520900000789 secondes (2963 changements) 
+
+Il y a 1109.0 mots appartenant au centroide 0
+Il y a 2920.0 mots appartenant au centroide 1
+Il y a 2874.0 mots appartenant au centroide 2
+Il y a 61.0 mots appartenant au centroide 3
+Il y a 348.0 mots appartenant au centroide 4
+Il y a 11755.0 mots appartenant au centroide 5
+Il y a 775.0 mots appartenant au centroide 6
+Il y a 1437.0 mots appartenant au centroide 7
+Il y a 2599.0 mots appartenant au centroide 8
+Il y a 1524.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 4 effectuées en 4.11796829999912 secondes (2170 changements) 
+
+Il y a 1183.0 mots appartenant au centroide 0
+Il y a 2723.0 mots appartenant au centroide 1
+Il y a 2927.0 mots appartenant au centroide 2
+Il y a 42.0 mots appartenant au centroide 3
+Il y a 270.0 mots appartenant au centroide 4
+Il y a 12420.0 mots appartenant au centroide 5
+Il y a 471.0 mots appartenant au centroide 6
+Il y a 1366.0 mots appartenant au centroide 7
+Il y a 2717.0 mots appartenant au centroide 8
+Il y a 1283.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 5 effectuées en 4.103345300000001 secondes (2373 changements) 
+
+Il y a 1056.0 mots appartenant au centroide 0
+Il y a 2502.0 mots appartenant au centroide 1
+Il y a 2591.0 mots appartenant au centroide 2
+Il y a 33.0 mots appartenant au centroide 3
+Il y a 220.0 mots appartenant au centroide 4
+Il y a 13434.0 mots appartenant au centroide 5
+Il y a 297.0 mots appartenant au centroide 6
+Il y a 1227.0 mots appartenant au centroide 7
+Il y a 2834.0 mots appartenant au centroide 8
+Il y a 1208.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 6 effectuées en 4.1210996999998315 secondes (2148 changements) 
+
+Il y a 847.0 mots appartenant au centroide 0
+Il y a 2095.0 mots appartenant au centroide 1
+Il y a 2474.0 mots appartenant au centroide 2
+Il y a 30.0 mots appartenant au centroide 3
+Il y a 166.0 mots appartenant au centroide 4
+Il y a 14286.0 mots appartenant au centroide 5
+Il y a 197.0 mots appartenant au centroide 6
+Il y a 1079.0 mots appartenant au centroide 7
+Il y a 2925.0 mots appartenant au centroide 8
+Il y a 1303.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 7 effectuées en 4.110360700000456 secondes (1766 changements) 
+
+Il y a 668.0 mots appartenant au centroide 0
+Il y a 1735.0 mots appartenant au centroide 1
+Il y a 2583.0 mots appartenant au centroide 2
+Il y a 27.0 mots appartenant au centroide 3
+Il y a 115.0 mots appartenant au centroide 4
+Il y a 14865.0 mots appartenant au centroide 5
+Il y a 123.0 mots appartenant au centroide 6
+Il y a 924.0 mots appartenant au centroide 7
+Il y a 3029.0 mots appartenant au centroide 8
+Il y a 1333.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 8 effectuées en 4.0954005000003235 secondes (1532 changements) 
+
+Il y a 492.0 mots appartenant au centroide 0
+Il y a 1574.0 mots appartenant au centroide 1
+Il y a 2594.0 mots appartenant au centroide 2
+Il y a 23.0 mots appartenant au centroide 3
+Il y a 75.0 mots appartenant au centroide 4
+Il y a 15287.0 mots appartenant au centroide 5
+Il y a 81.0 mots appartenant au centroide 6
+Il y a 774.0 mots appartenant au centroide 7
+Il y a 3211.0 mots appartenant au centroide 8
+Il y a 1291.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 9 effectuées en 4.100484599999618 secondes (1505 changements) 
+
+Il y a 393.0 mots appartenant au centroide 0
+Il y a 1573.0 mots appartenant au centroide 1
+Il y a 2409.0 mots appartenant au centroide 2
+Il y a 18.0 mots appartenant au centroide 3
+Il y a 48.0 mots appartenant au centroide 4
+Il y a 15480.0 mots appartenant au centroide 5
+Il y a 58.0 mots appartenant au centroide 6
+Il y a 602.0 mots appartenant au centroide 7
+Il y a 3677.0 mots appartenant au centroide 8
+Il y a 1144.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 10 effectuées en 4.099437799999578 secondes (2449 changements) 
+
+Il y a 301.0 mots appartenant au centroide 0
+Il y a 1573.0 mots appartenant au centroide 1
+Il y a 2089.0 mots appartenant au centroide 2
+Il y a 14.0 mots appartenant au centroide 3
+Il y a 38.0 mots appartenant au centroide 4
+Il y a 15746.0 mots appartenant au centroide 5
+Il y a 44.0 mots appartenant au centroide 6
+Il y a 446.0 mots appartenant au centroide 7
+Il y a 4134.0 mots appartenant au centroide 8
+Il y a 1017.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 11 effectuées en 4.100254400000267 secondes (2878 changements) 
+
+Il y a 224.0 mots appartenant au centroide 0
+Il y a 1474.0 mots appartenant au centroide 1
+Il y a 1744.0 mots appartenant au centroide 2
+Il y a 10.0 mots appartenant au centroide 3
+Il y a 32.0 mots appartenant au centroide 4
+Il y a 16239.0 mots appartenant au centroide 5
+Il y a 40.0 mots appartenant au centroide 6
+Il y a 341.0 mots appartenant au centroide 7
+Il y a 4421.0 mots appartenant au centroide 8
+Il y a 877.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 12 effectuées en 4.149188800000047 secondes (1875 changements) 
+
+Il y a 177.0 mots appartenant au centroide 0
+Il y a 1374.0 mots appartenant au centroide 1
+Il y a 1480.0 mots appartenant au centroide 2
+Il y a 10.0 mots appartenant au centroide 3
+Il y a 28.0 mots appartenant au centroide 4
+Il y a 16870.0 mots appartenant au centroide 5
+Il y a 36.0 mots appartenant au centroide 6
+Il y a 261.0 mots appartenant au centroide 7
+Il y a 4462.0 mots appartenant au centroide 8
+Il y a 704.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 13 effectuées en 4.110428099998899 secondes (1534 changements) 
+
+Il y a 152.0 mots appartenant au centroide 0
+Il y a 1187.0 mots appartenant au centroide 1
+Il y a 1261.0 mots appartenant au centroide 2
+Il y a 10.0 mots appartenant au centroide 3
+Il y a 27.0 mots appartenant au centroide 4
+Il y a 17514.0 mots appartenant au centroide 5
+Il y a 33.0 mots appartenant au centroide 6
+Il y a 202.0 mots appartenant au centroide 7
+Il y a 4438.0 mots appartenant au centroide 8
+Il y a 578.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 14 effectuées en 4.109739699999409 secondes (1372 changements) 
+
+Il y a 130.0 mots appartenant au centroide 0
+Il y a 1058.0 mots appartenant au centroide 1
+Il y a 1033.0 mots appartenant au centroide 2
+Il y a 10.0 mots appartenant au centroide 3
+Il y a 29.0 mots appartenant au centroide 4
+Il y a 18121.0 mots appartenant au centroide 5
+Il y a 31.0 mots appartenant au centroide 6
+Il y a 150.0 mots appartenant au centroide 7
+Il y a 4362.0 mots appartenant au centroide 8
+Il y a 478.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 15 effectuées en 4.077936499999851 secondes (1197 changements) 
+
+Il y a 129.0 mots appartenant au centroide 0
+Il y a 935.0 mots appartenant au centroide 1
+Il y a 857.0 mots appartenant au centroide 2
+Il y a 10.0 mots appartenant au centroide 3
+Il y a 28.0 mots appartenant au centroide 4
+Il y a 18668.0 mots appartenant au centroide 5
+Il y a 27.0 mots appartenant au centroide 6
+Il y a 105.0 mots appartenant au centroide 7
+Il y a 4260.0 mots appartenant au centroide 8
+Il y a 383.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 16 effectuées en 4.121269499999471 secondes (1070 changements) 
+
+Il y a 121.0 mots appartenant au centroide 0
+Il y a 802.0 mots appartenant au centroide 1
+Il y a 721.0 mots appartenant au centroide 2
+Il y a 10.0 mots appartenant au centroide 3
+Il y a 28.0 mots appartenant au centroide 4
+Il y a 19203.0 mots appartenant au centroide 5
+Il y a 23.0 mots appartenant au centroide 6
+Il y a 68.0 mots appartenant au centroide 7
+Il y a 4090.0 mots appartenant au centroide 8
+Il y a 336.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 17 effectuées en 4.101862900000924 secondes (938 changements) 
+
+Il y a 104.0 mots appartenant au centroide 0
+Il y a 715.0 mots appartenant au centroide 1
+Il y a 621.0 mots appartenant au centroide 2
+Il y a 10.0 mots appartenant au centroide 3
+Il y a 27.0 mots appartenant au centroide 4
+Il y a 19757.0 mots appartenant au centroide 5
+Il y a 21.0 mots appartenant au centroide 6
+Il y a 54.0 mots appartenant au centroide 7
+Il y a 3784.0 mots appartenant au centroide 8
+Il y a 309.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 18 effectuées en 4.1116194000005635 secondes (754 changements) 
+
+Il y a 92.0 mots appartenant au centroide 0
+Il y a 663.0 mots appartenant au centroide 1
+Il y a 540.0 mots appartenant au centroide 2
+Il y a 10.0 mots appartenant au centroide 3
+Il y a 25.0 mots appartenant au centroide 4
+Il y a 20202.0 mots appartenant au centroide 5
+Il y a 20.0 mots appartenant au centroide 6
+Il y a 37.0 mots appartenant au centroide 7
+Il y a 3532.0 mots appartenant au centroide 8
+Il y a 281.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 19 effectuées en 4.077405899999576 secondes (635 changements) 
+
+Il y a 82.0 mots appartenant au centroide 0
+Il y a 602.0 mots appartenant au centroide 1
+Il y a 494.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+Il y a 20597.0 mots appartenant au centroide 5
+Il y a 21.0 mots appartenant au centroide 6
+Il y a 31.0 mots appartenant au centroide 7
+Il y a 3287.0 mots appartenant au centroide 8
+Il y a 257.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 20 effectuées en 4.096866699999737 secondes (509 changements) 
+
+Il y a 75.0 mots appartenant au centroide 0
+Il y a 543.0 mots appartenant au centroide 1
+Il y a 437.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 23.0 mots appartenant au centroide 4
+Il y a 20894.0 mots appartenant au centroide 5
+Il y a 19.0 mots appartenant au centroide 6
+Il y a 26.0 mots appartenant au centroide 7
+Il y a 3139.0 mots appartenant au centroide 8
+Il y a 237.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 21 effectuées en 4.073699699998542 secondes (450 changements) 
+
+Il y a 67.0 mots appartenant au centroide 0
+Il y a 490.0 mots appartenant au centroide 1
+Il y a 394.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 23.0 mots appartenant au centroide 4
+Il y a 21183.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 23.0 mots appartenant au centroide 7
+Il y a 2967.0 mots appartenant au centroide 8
+Il y a 228.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 22 effectuées en 4.146517600000152 secondes (436 changements) 
+
+Il y a 58.0 mots appartenant au centroide 0
+Il y a 445.0 mots appartenant au centroide 1
+Il y a 349.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+Il y a 21463.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 20.0 mots appartenant au centroide 7
+Il y a 2799.0 mots appartenant au centroide 8
+Il y a 219.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 23 effectuées en 4.105709900000875 secondes (391 changements) 
+
+Il y a 55.0 mots appartenant au centroide 0
+Il y a 408.0 mots appartenant au centroide 1
+Il y a 312.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+Il y a 21706.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 19.0 mots appartenant au centroide 7
+Il y a 2660.0 mots appartenant au centroide 8
+Il y a 193.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 24 effectuées en 4.148563599999761 secondes (358 changements) 
+
+Il y a 51.0 mots appartenant au centroide 0
+Il y a 373.0 mots appartenant au centroide 1
+Il y a 295.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+Il y a 21945.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 17.0 mots appartenant au centroide 7
+Il y a 2501.0 mots appartenant au centroide 8
+Il y a 171.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 25 effectuées en 4.122769400000834 secondes (323 changements) 
+
+Il y a 48.0 mots appartenant au centroide 0
+Il y a 345.0 mots appartenant au centroide 1
+Il y a 276.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+Il y a 22171.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 16.0 mots appartenant au centroide 7
+Il y a 2344.0 mots appartenant au centroide 8
+Il y a 153.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 26 effectuées en 4.236522799999875 secondes (295 changements) 
+
+Il y a 45.0 mots appartenant au centroide 0
+Il y a 310.0 mots appartenant au centroide 1
+Il y a 267.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+Il y a 22382.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 15.0 mots appartenant au centroide 7
+Il y a 2194.0 mots appartenant au centroide 8
+Il y a 140.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 27 effectuées en 4.3882357999991655 secondes (288 changements) 
+
+Il y a 42.0 mots appartenant au centroide 0
+Il y a 271.0 mots appartenant au centroide 1
+Il y a 242.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+Il y a 22592.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 2053.0 mots appartenant au centroide 8
+Il y a 139.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 28 effectuées en 4.416348499999003 secondes (253 changements) 
+
+Il y a 39.0 mots appartenant au centroide 0
+Il y a 249.0 mots appartenant au centroide 1
+Il y a 226.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+Il y a 22785.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1906.0 mots appartenant au centroide 8
+Il y a 134.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 29 effectuées en 4.2649187999995775 secondes (209 changements) 
+
+Il y a 35.0 mots appartenant au centroide 0
+Il y a 230.0 mots appartenant au centroide 1
+Il y a 206.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 22939.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1796.0 mots appartenant au centroide 8
+Il y a 134.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 30 effectuées en 4.245312099999865 secondes (179 changements) 
+
+Il y a 32.0 mots appartenant au centroide 0
+Il y a 218.0 mots appartenant au centroide 1
+Il y a 196.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23071.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1696.0 mots appartenant au centroide 8
+Il y a 127.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 31 effectuées en 4.207289800000581 secondes (150 changements) 
+
+Il y a 31.0 mots appartenant au centroide 0
+Il y a 211.0 mots appartenant au centroide 1
+Il y a 190.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23166.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1633.0 mots appartenant au centroide 8
+Il y a 109.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 32 effectuées en 4.176826900000378 secondes (146 changements) 
+
+Il y a 28.0 mots appartenant au centroide 0
+Il y a 216.0 mots appartenant au centroide 1
+Il y a 172.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23255.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1573.0 mots appartenant au centroide 8
+Il y a 96.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 33 effectuées en 4.24361239999962 secondes (122 changements) 
+
+Il y a 27.0 mots appartenant au centroide 0
+Il y a 220.0 mots appartenant au centroide 1
+Il y a 162.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23326.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1526.0 mots appartenant au centroide 8
+Il y a 79.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 34 effectuées en 4.172819499999605 secondes (116 changements) 
+
+Il y a 27.0 mots appartenant au centroide 0
+Il y a 225.0 mots appartenant au centroide 1
+Il y a 148.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23399.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1473.0 mots appartenant au centroide 8
+Il y a 68.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 35 effectuées en 4.178307199999836 secondes (94 changements) 
+
+Il y a 27.0 mots appartenant au centroide 0
+Il y a 228.0 mots appartenant au centroide 1
+Il y a 135.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23461.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1427.0 mots appartenant au centroide 8
+Il y a 62.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 36 effectuées en 4.190175700001419 secondes (73 changements) 
+
+Il y a 27.0 mots appartenant au centroide 0
+Il y a 230.0 mots appartenant au centroide 1
+Il y a 124.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23508.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1394.0 mots appartenant au centroide 8
+Il y a 57.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 37 effectuées en 4.217921299999944 secondes (74 changements) 
+
+Il y a 27.0 mots appartenant au centroide 0
+Il y a 230.0 mots appartenant au centroide 1
+Il y a 117.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23562.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1350.0 mots appartenant au centroide 8
+Il y a 54.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 38 effectuées en 4.279127499999959 secondes (66 changements) 
+
+Il y a 27.0 mots appartenant au centroide 0
+Il y a 225.0 mots appartenant au centroide 1
+Il y a 116.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23613.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1309.0 mots appartenant au centroide 8
+Il y a 50.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 39 effectuées en 4.13240340000084 secondes (56 changements) 
+
+Il y a 27.0 mots appartenant au centroide 0
+Il y a 226.0 mots appartenant au centroide 1
+Il y a 114.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23661.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1264.0 mots appartenant au centroide 8
+Il y a 48.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 40 effectuées en 4.142871199999718 secondes (39 changements) 
+
+Il y a 26.0 mots appartenant au centroide 0
+Il y a 227.0 mots appartenant au centroide 1
+Il y a 111.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23690.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1240.0 mots appartenant au centroide 8
+Il y a 46.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 41 effectuées en 4.21705540000039 secondes (35 changements) 
+
+Il y a 26.0 mots appartenant au centroide 0
+Il y a 226.0 mots appartenant au centroide 1
+Il y a 106.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23715.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1222.0 mots appartenant au centroide 8
+Il y a 45.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 42 effectuées en 4.210030800000823 secondes (34 changements) 
+
+Il y a 26.0 mots appartenant au centroide 0
+Il y a 224.0 mots appartenant au centroide 1
+Il y a 103.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23742.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1200.0 mots appartenant au centroide 8
+Il y a 45.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 43 effectuées en 4.116894900000261 secondes (29 changements) 
+
+Il y a 26.0 mots appartenant au centroide 0
+Il y a 222.0 mots appartenant au centroide 1
+Il y a 101.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23765.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1181.0 mots appartenant au centroide 8
+Il y a 45.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 44 effectuées en 4.151409699999931 secondes (19 changements) 
+
+Il y a 26.0 mots appartenant au centroide 0
+Il y a 221.0 mots appartenant au centroide 1
+Il y a 100.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23779.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1169.0 mots appartenant au centroide 8
+Il y a 45.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 45 effectuées en 4.187729700001 secondes (7 changements) 
+
+Il y a 26.0 mots appartenant au centroide 0
+Il y a 222.0 mots appartenant au centroide 1
+Il y a 100.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23785.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1162.0 mots appartenant au centroide 8
+Il y a 45.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 46 effectuées en 4.251702800000203 secondes (1 changements) 
+
+Il y a 26.0 mots appartenant au centroide 0
+Il y a 223.0 mots appartenant au centroide 1
+Il y a 100.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23785.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1161.0 mots appartenant au centroide 8
+Il y a 45.0 mots appartenant au centroide 9
+
+************************************************************************
+Itération 47 effectuées en 4.220377600000575 secondes (0 changements) 
+
+Il y a 26.0 mots appartenant au centroide 0
+Il y a 223.0 mots appartenant au centroide 1
+Il y a 100.0 mots appartenant au centroide 2
+Il y a 9.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+Il y a 23785.0 mots appartenant au centroide 5
+Il y a 18.0 mots appartenant au centroide 6
+Il y a 14.0 mots appartenant au centroide 7
+Il y a 1161.0 mots appartenant au centroide 8
+Il y a 45.0 mots appartenant au centroide 9
+
+************************************************************************
+Clustering effectuée en 48 itérations, en un temps de 200.7449843000013 secondes.
+
+Pour le cluster 0
+	encore --> 159.76991592758463
+	puis --> 170.8286452428501
+	donc --> 177.60014259817598
+	fait --> 204.61982354926363
+	là --> 205.73761079837698
+	quand --> 211.8318524863375
+	où --> 237.4018887977025
+	moi --> 242.507341437059
+	sans --> 291.84236241003964
+	même --> 300.32796668641885
+
+Pour le cluster 1
+	sortir --> 32.36908597535448
+	beaucoup --> 34.99775605198138
+	politique --> 36.46633517807562
+	misère --> 36.572795710379005
+	famille --> 36.6112759893844
+	laisser --> 37.74008188507216
+	jeanlin --> 38.46505449707897
+	justice --> 39.03085895923303
+	cause --> 39.143061346092644
+	lumière --> 40.315903520274475
+
+Pour le cluster 2
+	cependant --> 69.24252017366547
+	enfin --> 70.5940974869747
+	seulement --> 73.7481294678073
+	maintenant --> 75.26942672825702
+	car --> 77.25416881955609
+	bon --> 79.87469311365449
+	florent --> 80.75274979838426
+	toujours --> 81.80248529232131
+	fort --> 83.98229932551533
+	ainsi --> 85.07988363885113
+
+Pour le cluster 3
+	et --> 1354.3668193963176
+	à --> 1649.5961570885552
+	le --> 1668.151050092808
+	les --> 1733.0161675635964
+	l --> 1765.1091037519577
+	il --> 2754.176088402316
+	d --> 2775.497899944037
+	la --> 3701.2683311620835
+	de --> 4704.982552020298
+
+Pour le cluster 4
+	tout --> 406.8721517206934
+	mais --> 417.7814366366789
+	pour --> 438.6379299149962
+	plus --> 439.2869712203203
+	comme --> 471.2275713880745
+	avec --> 474.69037050042107
+	lui --> 526.4784129233022
+	du --> 547.5396008622005
+	cette --> 554.792621262729
+	ses --> 589.2696005491715
+
+Pour le cluster 5
+	usages --> 1.6165704658541507
+	coque --> 1.6262682628999146
+	continuité --> 1.644776830316166
+	bienfaits --> 1.647739320466973
+	vigilance --> 1.6548174961525646
+	abrutissement --> 1.672934859572963
+	embouchure --> 1.672934859572963
+	guichetiers --> 1.6755966772915256
+	sommets --> 1.69152933217984
+	approuvant --> 1.6976079349722093
+
+Pour le cluster 6
+	en --> 790.7831834389902
+	se --> 821.6115863140287
+	s --> 951.7933009085227
+	était --> 1018.7704129591735
+	ce --> 1027.4920053158216
+	avait --> 1054.5169715135755
+	elle --> 1131.3350711483142
+	n --> 1287.2198892225733
+	ne --> 1295.3332642344963
+	je --> 1295.3769673938978
+
+Pour le cluster 7
+	toutes --> 88.74349645616601
+	mains --> 96.38379912978972
+	hommes --> 100.80593600920353
+	femmes --> 105.22075918402723
+	quatre --> 123.43353164635464
+	entre --> 125.18492443629222
+	bras --> 128.44001220294683
+	trois --> 130.16739614975273
+	autres --> 131.43812077110624
+	tous --> 147.27178817356656
+
+Pour le cluster 8
+	double --> 13.759846416113959
+	goût --> 13.96624596233678
+	tirait --> 14.653037081212883
+	conduite --> 14.851143287427728
+	révolte --> 15.12862015279374
+	vouloir --> 15.15603729271938
+	souffrance --> 15.362909530536573
+	chute --> 15.496437492063537
+	jouer --> 15.521262860515757
+	menaçait --> 15.565096184014145
+
+Pour le cluster 9
+	toute --> 85.91684754084928
+	vie --> 87.99655436576182
+	mort --> 90.32517935044976
+	maison --> 91.60236667384868
+	terre --> 92.45548011054775
+	compagnie --> 99.03924150571896
+	table --> 99.41324650292016
+	route --> 106.63569457751066
+	petite --> 106.86488989074682
+	fosse --> 107.28142752294778
+

@@ -1,0 +1,140 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "recherche",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-r",
+        "-t=5",
+      ]
+    },
+    {
+      "name": "benchmark-k5",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-c",
+        "-t=5",
+        "-n=10",
+        "-k=5",
+        "--knn=7"
+      ]
+    },
+    {
+      "name": "benchmark-k10",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-c",
+        "-t=5",
+        "-n=10",
+        "-k=10",
+      ]
+    },
+    {
+      "name": "benchmark-k100",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-c",
+        "-t=5",
+        "-n=10",
+        "-k=100",
+      ]
+    },
+    {
+      "name": "recherche-000",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-r",
+        "-t=9",
+      ]
+    },
+    {
+      "name": "germinal",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-e",
+        "-t=5",
+        "--enc=utf-8",
+        "--chemin=..\\textes\\GerminalUTF8.txt"
+      ]
+    },
+    {
+      "name": "test",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": ["-e", "-t=5", "--enc=utf-8", "--chemin=..\\textes\\test.txt"]
+    },
+    {
+      "name": "donquich",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-e",
+        "-t=5",
+        "--enc=utf-8",
+        "--chemin=..\\textes\\DonQuichotteUTF8.txt"
+      ]
+    },
+    {
+      "name": "belly de Paris",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-e",
+        "-t=5",
+        "--enc=utf-8",
+        "--chemin=..\\textes\\LeVentreDeParisUTF8.txt"
+      ]
+    },
+    {
+      "name": "Les trois moustes",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "args": [
+        "-e",
+        "-t=5",
+        "--enc=utf-8",
+        "--chemin=..\\textes\\LesTroisMousquetairesUTF8.txt"
+      ]
+    }
+  ]
+}

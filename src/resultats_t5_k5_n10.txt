@@ -1,0 +1,324 @@
+Clustering
+Itération 0 effectuées en 3.2268695999991905 secondes (8239 changements) 
+
+Il y a 17163.0 mots appartenant au centroide 0
+Il y a 2856.0 mots appartenant au centroide 1
+Il y a 671.0 mots appartenant au centroide 2
+Il y a 4064.0 mots appartenant au centroide 3
+Il y a 648.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 1 effectuées en 2.2717842999991262 secondes (4568 changements) 
+
+Il y a 18133.0 mots appartenant au centroide 0
+Il y a 2340.0 mots appartenant au centroide 1
+Il y a 235.0 mots appartenant au centroide 2
+Il y a 4392.0 mots appartenant au centroide 3
+Il y a 302.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 2 effectuées en 2.2118413999996847 secondes (3219 changements) 
+
+Il y a 18454.0 mots appartenant au centroide 0
+Il y a 1499.0 mots appartenant au centroide 1
+Il y a 86.0 mots appartenant au centroide 2
+Il y a 5190.0 mots appartenant au centroide 3
+Il y a 173.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 3 effectuées en 2.218997299998591 secondes (1953 changements) 
+
+Il y a 19612.0 mots appartenant au centroide 0
+Il y a 851.0 mots appartenant au centroide 1
+Il y a 51.0 mots appartenant au centroide 2
+Il y a 4792.0 mots appartenant au centroide 3
+Il y a 96.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 4 effectuées en 2.2382873999995354 secondes (1832 changements) 
+
+Il y a 21022.0 mots appartenant au centroide 0
+Il y a 501.0 mots appartenant au centroide 1
+Il y a 40.0 mots appartenant au centroide 2
+Il y a 3792.0 mots appartenant au centroide 3
+Il y a 47.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 5 effectuées en 2.2341182000000117 secondes (1423 changements) 
+
+Il y a 22237.0 mots appartenant au centroide 0
+Il y a 328.0 mots appartenant au centroide 1
+Il y a 33.0 mots appartenant au centroide 2
+Il y a 2776.0 mots appartenant au centroide 3
+Il y a 28.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 6 effectuées en 2.222614300000714 secondes (1006 changements) 
+
+Il y a 23116.0 mots appartenant au centroide 0
+Il y a 215.0 mots appartenant au centroide 1
+Il y a 30.0 mots appartenant au centroide 2
+Il y a 2018.0 mots appartenant au centroide 3
+Il y a 23.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 7 effectuées en 2.2040852999998606 secondes (712 changements) 
+
+Il y a 23740.0 mots appartenant au centroide 0
+Il y a 144.0 mots appartenant au centroide 1
+Il y a 27.0 mots appartenant au centroide 2
+Il y a 1472.0 mots appartenant au centroide 3
+Il y a 19.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 8 effectuées en 2.206595899999229 secondes (470 changements) 
+
+Il y a 24144.0 mots appartenant au centroide 0
+Il y a 92.0 mots appartenant au centroide 1
+Il y a 23.0 mots appartenant au centroide 2
+Il y a 1125.0 mots appartenant au centroide 3
+Il y a 18.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 9 effectuées en 2.208320100000492 secondes (364 changements) 
+
+Il y a 24459.0 mots appartenant au centroide 0
+Il y a 57.0 mots appartenant au centroide 1
+Il y a 19.0 mots appartenant au centroide 2
+Il y a 846.0 mots appartenant au centroide 3
+Il y a 21.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 10 effectuées en 2.206196799999816 secondes (249 changements) 
+
+Il y a 24682.0 mots appartenant au centroide 0
+Il y a 46.0 mots appartenant au centroide 1
+Il y a 14.0 mots appartenant au centroide 2
+Il y a 638.0 mots appartenant au centroide 3
+Il y a 22.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 11 effectuées en 2.2064325000010285 secondes (160 changements) 
+
+Il y a 24826.0 mots appartenant au centroide 0
+Il y a 40.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 503.0 mots appartenant au centroide 3
+Il y a 23.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 12 effectuées en 2.20949710000059 secondes (88 changements) 
+
+Il y a 24904.0 mots appartenant au centroide 0
+Il y a 36.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 432.0 mots appartenant au centroide 3
+Il y a 20.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 13 effectuées en 2.2073573999987275 secondes (63 changements) 
+
+Il y a 24962.0 mots appartenant au centroide 0
+Il y a 33.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 378.0 mots appartenant au centroide 3
+Il y a 19.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 14 effectuées en 2.2022256000000198 secondes (49 changements) 
+
+Il y a 25007.0 mots appartenant au centroide 0
+Il y a 29.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 337.0 mots appartenant au centroide 3
+Il y a 19.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 15 effectuées en 2.205935699999827 secondes (25 changements) 
+
+Il y a 25031.0 mots appartenant au centroide 0
+Il y a 28.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 314.0 mots appartenant au centroide 3
+Il y a 19.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 16 effectuées en 2.2103409999999712 secondes (15 changements) 
+
+Il y a 25045.0 mots appartenant au centroide 0
+Il y a 27.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 301.0 mots appartenant au centroide 3
+Il y a 19.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 17 effectuées en 2.2003511999992043 secondes (7 changements) 
+
+Il y a 25052.0 mots appartenant au centroide 0
+Il y a 27.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 294.0 mots appartenant au centroide 3
+Il y a 19.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 18 effectuées en 2.2048147000004974 secondes (8 changements) 
+
+Il y a 25059.0 mots appartenant au centroide 0
+Il y a 26.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 288.0 mots appartenant au centroide 3
+Il y a 19.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 19 effectuées en 2.2057530999991286 secondes (11 changements) 
+
+Il y a 25069.0 mots appartenant au centroide 0
+Il y a 27.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 278.0 mots appartenant au centroide 3
+Il y a 18.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 20 effectuées en 2.201969399999143 secondes (12 changements) 
+
+Il y a 25079.0 mots appartenant au centroide 0
+Il y a 27.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 269.0 mots appartenant au centroide 3
+Il y a 17.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 21 effectuées en 2.2154591999988043 secondes (13 changements) 
+
+Il y a 25089.0 mots appartenant au centroide 0
+Il y a 26.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 261.0 mots appartenant au centroide 3
+Il y a 16.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 22 effectuées en 2.2106629999998404 secondes (16 changements) 
+
+Il y a 25103.0 mots appartenant au centroide 0
+Il y a 26.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 248.0 mots appartenant au centroide 3
+Il y a 15.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 23 effectuées en 2.231088800001089 secondes (15 changements) 
+
+Il y a 25116.0 mots appartenant au centroide 0
+Il y a 24.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 237.0 mots appartenant au centroide 3
+Il y a 15.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 24 effectuées en 2.2034622999999556 secondes (14 changements) 
+
+Il y a 25130.0 mots appartenant au centroide 0
+Il y a 24.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 223.0 mots appartenant au centroide 3
+Il y a 15.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 25 effectuées en 2.2057897000013327 secondes (7 changements) 
+
+Il y a 25137.0 mots appartenant au centroide 0
+Il y a 24.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 216.0 mots appartenant au centroide 3
+Il y a 15.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 26 effectuées en 2.2047887000007904 secondes (4 changements) 
+
+Il y a 25141.0 mots appartenant au centroide 0
+Il y a 24.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 212.0 mots appartenant au centroide 3
+Il y a 15.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 27 effectuées en 2.204571100000976 secondes (1 changements) 
+
+Il y a 25142.0 mots appartenant au centroide 0
+Il y a 24.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 211.0 mots appartenant au centroide 3
+Il y a 15.0 mots appartenant au centroide 4
+
+************************************************************************
+Itération 28 effectuées en 2.2005107999993925 secondes (0 changements) 
+
+Il y a 25142.0 mots appartenant au centroide 0
+Il y a 24.0 mots appartenant au centroide 1
+Il y a 10.0 mots appartenant au centroide 2
+Il y a 211.0 mots appartenant au centroide 3
+Il y a 15.0 mots appartenant au centroide 4
+
+************************************************************************
+Clustering effectuée en 29 itérations, en un temps de 65.18072189999657 secondes.
+
+Pour le cluster 0
+	coque --> 2.342843428204596
+	scrofule --> 2.3882910255872445
+	vigilance --> 2.4039277018378233
+	continuité --> 2.4051352169496742
+	abrutissement --> 2.4092989747534608
+	embouchure --> 2.4092989747534608
+	usages --> 2.421172397358999
+	cadencement --> 2.446031181087023
+	encombrement --> 2.4535158942968325
+	avènement --> 2.4535158942968325
+
+Pour le cluster 1
+	tout --> 422.0252962732396
+	mais --> 439.30534258969567
+	plus --> 453.23735580214066
+	pour --> 482.29902622182027
+	comme --> 496.7870275022455
+	avec --> 502.99504705432724
+	par --> 514.0260376295878
+	lui --> 536.9391033389511
+	cette --> 553.7376942449996
+	du --> 584.2915374146995
+
+Pour le cluster 2
+	et --> 1373.2813331580028
+	le --> 1581.66634281669
+	les --> 1636.48605860217
+	l --> 1654.7999335264187
+	à --> 1676.1093699395235
+	un --> 2001.6338876025795
+	il --> 2748.3818548372815
+	d --> 2775.2851781391405
+	la --> 3698.7370844650313
+	de --> 4845.37148421076
+
+Pour le cluster 3
+	florent --> 71.20511729760088
+	prendre --> 79.44325232982067
+	enfin --> 83.18515868290282
+	toujours --> 84.327099586229
+	cependant --> 84.35480253315625
+	maintenant --> 86.44631245979166
+	seulement --> 87.86826637913225
+	mort --> 88.85814889530255
+	ainsi --> 90.50007467452706
+	étienne --> 96.08925555275563
+
+Pour le cluster 4
+	en --> 830.2400081368503
+	se --> 860.1284038508825
+	s --> 965.5286312573724
+	était --> 979.6596370395127
+	avait --> 982.7344526597161
+	ce --> 1022.6208507772515
+	elle --> 1166.4191661283382
+	n --> 1212.4087612867584
+	ne --> 1223.6413163633963
+	je --> 1249.5745160299741
+
