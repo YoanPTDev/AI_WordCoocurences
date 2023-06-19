@@ -35,4 +35,5 @@ Once the training is done, you can use the `recherche.py` script to search for s
 This project provides an interesting way to analyze and visualize word co-occurrence relationships in texts. With various functionalities such as searching for synonyms and clustering, it provides an easy and effective way to explore and understand the context and relationships between words in a text. 
 
 ## Contact
-
+- Yoan Poulin Truchon -> courriel: yoan.pt.dev@outlook.com
+- Raphael Lavoie -> courriel: keyblademaster190@hotmail.com
